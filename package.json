@@ -6,10 +6,18 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kqkq/biosen-server.git"
+  },
   "keywords": [
     "API",
     "jwt"
   ],
   "author": "KUANG Qi",
-  "license": "GPL-3.0"
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/kqkq/biosen-server/issues"
+  },
+  "homepage": "https://github.com/kqkq/biosen-server#readme"
 }
