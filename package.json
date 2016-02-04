@@ -1,0 +1,15 @@
+{
+  "name": "biosen-server",
+  "version": "1.0.0",
+  "description": "The API server of BNU bio-sensing devices",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "API",
+    "jwt"
+  ],
+  "author": "KUANG Qi",
+  "license": "GPL-3.0"
+}
